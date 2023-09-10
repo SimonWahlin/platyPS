@@ -52,7 +52,7 @@ Description = 'Generate PowerShell External Help files from Markdown'
 # RequiredModules = @()
 
 # Assemblies that must be loaded prior to importing this module
-RequiredAssemblies = @('Markdown.MAML.dll','YamlDotNet.dll')
+RequiredAssemblies = @('Markdown.MAML.dll')
 
 # Script files (.ps1) that are run in the caller's environment prior to importing this module.
 # ScriptsToProcess = @()
